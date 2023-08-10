@@ -10,11 +10,6 @@ Cloud Engineer | CS Graduate Student @Dalhousie University
 
 📫 How to reach me? Alagappan.Veerappan@dal.ca 	
 
-Connect with me:
-![image](https://github.com/AlagappanVeerappan32/Alagappan-Veerappan32/assets/133504573/060905f5-5359-41e1-8fa2-9623e25b2eb4)
-
-
-
 Skills
 Java Python Mongo DB MySQL Firebase AWS GCP NOSQL SPLUNK SNOWFLAKE REST API TERRAFORM CICD
 
