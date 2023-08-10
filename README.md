@@ -2,6 +2,7 @@
 
 Hi, I'm Alagappan Veerappan
 Cloud Engineer | CS Graduate Student @Dalhousie University
+
 ⚐ Based in Halifax, NS, Canada
 
 ϟ 👨‍🎓 Currently pursuing Masters in Applied Computer Science Student @ Dalhousie University.
