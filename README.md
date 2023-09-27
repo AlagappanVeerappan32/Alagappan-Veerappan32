@@ -13,5 +13,5 @@ Cloud Engineer | CS Graduate Student @Dalhousie University
 
 Skills
 ---
-Java Python Mongo DB MySQL Firebase AWS GCP NOSQL SPLUNK SNOWFLAKE REST API TERRAFORM CICD
+Mongo DB MySQL Firebase AWS GCP NOSQL SPLUNK SNOWFLAKE REST API TERRAFORM CICD
 
