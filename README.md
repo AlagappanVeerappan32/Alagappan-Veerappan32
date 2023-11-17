@@ -1,7 +1,7 @@
 # Alagappan-Veerappan32
 
 Hi, I'm Alagappan Veerappan
-Cloud Engineer | CS Graduate Student @Dalhousie University
+Cloud Data Engineer | CS Graduate Student @Dalhousie University
 
 ⚐ Based in Halifax, NS, Canada
 
