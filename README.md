@@ -9,7 +9,8 @@ Cloud Data Engineer | CS Graduate Student @Dalhousie University
 
 🌱 Exploring field of Cloud Computing and DevOps.
 
-📫 How to reach me? Alagappan.Veerappan@dal.ca 	
+📫 How to reach me? alagappan.veerappan@dal.ca
+ 	
 
 Skills
 ---
